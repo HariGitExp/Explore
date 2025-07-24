@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/D365FO/Projects/HelloWorld/.vs/HelloWorld/v17
+/D365FO/Projects/HelloWorld/obj/Debug
