@@ -5,3 +5,8 @@
 /.vs
 /D365FO/Projects/HelloWorld/.vs/HelloWorld/v17
 /D365FO/Projects/HelloWorld/obj/Debug
+/D365FO/Metadata/HAR/XppMetadata/HAR/AxClass
+/D365FO/Projects/HelloWorld/.vs/HelloWorld/FileContentIndex
+/D365FO/Metadata/HAR/BuildProjectResult.log
+/D365FO/Metadata/HAR/BuildProjectResult.xml
+/D365FO/Metadata/HAR/bin
